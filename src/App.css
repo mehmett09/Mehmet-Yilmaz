@@ -1,0 +1,28 @@
+
+html {
+    scroll-behavior: smooth;
+}
+body {
+    
+    font-family: 'Roboto', sans-serif;
+    
+   
+    
+}
+
+header {
+   
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #000620;
+    left: auto;
+    right: auto;
+    text-align: center;
+    z-index: 1000;
+}
+
+
+
+
+
