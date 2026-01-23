@@ -32,6 +32,8 @@ const Home = () => {
                 <i class="fa-solid fa-file-lines"></i>
                 View CV
               </a>
+              <a href="/cv.pdf">TEST CV</a>
+  
                
             </div>
         </section>
