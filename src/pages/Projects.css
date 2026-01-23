@@ -53,7 +53,7 @@ body {
 .item p {
     
     flex-grow: 1; 
-    margin-bottom: 15px;
+    margin-bottom: 8px;
     text-align: center;
 }
 
@@ -90,7 +90,7 @@ button {
     padding: 10px 20px;
     background-color: #000620;
     color: #54e7e7;
-    /* border: 2px solid #54e7e7; */
+    
     border-radius: 50px;
     text-decoration: none;
     font-weight: bold;
@@ -101,12 +101,7 @@ button {
     text-decoration: none;
 }
 
-/* .item:nth-child(1) { background: linear-gradient(135deg, #f0f9ff, #cbebff); }
-.item:nth-child(2) { background: linear-gradient(135deg, #fdfbfb, #ebedee); }
-.item:nth-child(3) { background: linear-gradient(135deg, #f0f9ff, #cbebff); }
-.item:nth-child(4) { background: linear-gradient(135deg, #fdfbfb, #ebedee); }   
-.item:nth-child(5) { background: linear-gradient(135deg, #f0f9ff, #cbebff); }
-.item:nth-child(6) { background: linear-gradient(135deg, #fdfbfb, #ebedee); } */
+
 
 
 
