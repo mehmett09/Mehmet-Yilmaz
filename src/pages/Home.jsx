@@ -26,7 +26,12 @@ const Home = () => {
               </a>  
               <a href="https://www.instagram.com/mhmet.ylmzzz" target='blank' className='social-icon'>
                 <FaInstagram color="#54e7e7" size={40} />
-              </a>  
+              </a>
+              <!-- CV BUTTON -->
+              <a href="/Mehmet_Yilmaz_CV.pdf" target="_blank" class="cv-btn">
+                <i class="fa-solid fa-file-lines"></i>
+                View CV
+              </a>
                
             </div>
         </section>
