@@ -28,6 +28,12 @@ const projectsData = [
     description: "Responsive intro section with dropdown navigation – Interactive dropdown menus and mobile hamburger navigation built with HTML, CSS, and vanilla JavaScript. I have published this project on Frontend Mentor.",
     link: "https://github.com/mehmett09/intro-section-with-dropdown-navigation-main",
   },
+  {
+    id: 5,
+    title: "Blogging Website",
+    description: "A learning-focused blog project developed with Node.js and Express to understand backend fundamentals, routing, CRUD logic, and MVC architecture.",
+    link: "https://github.com/mehmett09/blogapp",
+  },
   
 ];
 
@@ -81,7 +87,7 @@ const Projects = () => {
       <div className="slider" ref={sliderRef}>
         {projectsData.map((project) => (
           <div key={project.id} className="item">
-            <h1>{project.title}</h1>
+            <h2>{project.title}</h2>
             <p>{project.description}</p>
             <button className="more">
               <a href={project.link} target="_blank" rel="noopener noreferrer">

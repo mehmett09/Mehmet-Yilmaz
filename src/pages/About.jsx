@@ -24,13 +24,13 @@ const About = () => {
       <section className="about-text">
         <h2>About Me</h2>
         <p>
-          I am a 3rd-year Computer Engineering student, constantly improving myself in the field of web development. My main focus is becoming a Full Stack developer by working with the MERN Stack and building real projects across both frontend and backend.
+          I am a 3rd-year Computer Engineering student with a strong interest in software development, particularly in building interactive and scalable web applications. I am currently focusing on becoming a Full Stack developer using the MERN Stack and creating real-world projects across both frontend and backend.
         </p>
         <p>
-          I chose software development because I enjoy solving problems and turning ideas into functional products. Applying what I learn through hands-on projects helps me grow faster and stay motivated.
+          I enjoy solving problems and turning ideas into functional products, which is one of the main reasons I am interested in game development. Games require strong problem-solving skills, performance awareness, and a deep understanding of user experience — areas I actively work on through my projects.
         </p>
         <p>
-          I describe myself as organized, curious, and solution-oriented. I enjoy exploring modern web technologies and clean, well-designed interfaces. My current goal is to build a solid portfolio and start contributing to professional projects.
+          One of my long-term goals is to develop my own game in the future. I see game development as a field where software engineering, creativity, and user experience come together, and this motivates me to continuously improve my technical and problem-solving skills. I aim to build a strong portfolio, gain experience in interactive systems, and contribute to professional projects in creative, technology-driven environments.
         </p>
 
         <h3>SKILLS</h3>
